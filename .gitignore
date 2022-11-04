@@ -1,0 +1,6 @@
+.config/
+.replit
+.upm/
+obj/
+bin/
+replit.nix
